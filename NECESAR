@@ -1,0 +1,16 @@
+o clasa pt  -masini
+            -rute
+            -orase
+            -client
+            -sofer
+            -sediu
+
+
+Clientul    1)face rezervare,
+            2)sediul verif disponibilitatea masinilor din zona,
+        S:  3)ia legatura cu soferul(masina),
+        S:  4)dupa care confirma rezervarea
+
+
+
+
